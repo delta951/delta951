@@ -15,3 +15,21 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" align ="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+<!-- all styles of icons (in Font Awesome Classic by default) -->
+<i class="fa-solid fa-user"></i>
+<i class="fa-regular fa-user"></i>
+<i class="fa-light fa-user"></i>
+<i class="fa-thin fa-user"></i>
+<i class="fa-duotone fa-user"></i>
+
+<!-- a Brands icon -->
+<i class="fa-brands fa-font-awesome"></i>
+
+<!-- a specifically set Font Awesome Sharp Solid icon -->
+<i class="fa-sharp fa-solid fa-user"></i>
+
+<!-- a specifically set Font Awesome Sharp Regular icon -->
+<i class="fa-sharp fa-regular fa-user"></i>
+
+<!-- a specifically set Font Awesome Sharp Light icon -->
+<i class="fa-sharp fa-light fa-user"></i>
